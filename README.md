@@ -10,6 +10,7 @@
 - 🧠 Me especializo en el desarrollo **backend con Java y Spring Boot**
 - 🔄 Experiencia en **bases de datos relacionales** como **MySQL** y **PostgreSQL**
 - 📲 También tengo conocimientos en **frontend** con Angular, **React** y en **desarrollo móvil** con Flutter
+- 🐳 Manejo de contenedores con **Docker** y despliegue de aplicaciones en **Render** y **AWS**
 - 🚀 Me gusta construir proyectos reales y aprender constantemente
 
 ---
@@ -40,18 +41,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 📫 ¡Conectemos!
 
 - ✉️ Correo: richardantonioassistrujillo.@gmail.com  
-- 📞 Teléfono 1: +57 3172719261 
-- 📞 Teléfono 2: +57 311 3636577 
-- 💼 [LinkedIn](www.linkedin.com/in/richard-antonio-assis-trujillo-7a7100238)  
-
-
-
+- 📞 Teléfono 1: +57 3172719261  
+- 📞 Teléfono 2: +57 311 3636577  
+- 💼 [LinkedIn](https://www.linkedin.com/in/richard-antonio-assis-trujillo-7a7100238)  
