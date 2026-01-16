@@ -1,17 +1,16 @@
 # 👋 ¡Hola! Soy Richard Assis
 
-🎯 Soy un **Desarrollador Backend** experto en crear sistemas robustos, escalables y eficientes con tecnologías modernas.
+🎯 Soy un **Desarrollador de Software* experto en crear sistemas robustos, escalables y eficientes con tecnologías modernas.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software**
-- 🧠 Me especializo en el desarrollo **backend con Java y Spring Boot**
-- 🔄 Experiencia en **bases de datos relacionales** como **MySQL** y **PostgreSQL**
-- 📲 También tengo conocimientos en **frontend** con Angular, **React** y en **desarrollo móvil** con Flutter
+- 🧠 ** Desarrollador Full-Stack**
+- 🔄 Manejo de **bases de datos relacionales y no relacionales**
 - 🐳 Manejo de contenedores con **Docker** y despliegue de aplicaciones en **Render** y **AWS**
-- 🚀 Me gusta construir proyectos reales y aprender constantemente
+- 🧩 Conocimientos en **arquitectura de software** y **patrones de diseño** aplicados al desarrollo de aplicaciones
 
 ---
 
