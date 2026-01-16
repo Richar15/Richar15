@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Richard Assis
 
-🎯 Soy un **Desarrollador de Software* experto en crear sistemas robustos, escalables y eficientes con tecnologías modernas.
+🎯 Soy un **Desarrollador de Software** enfocado en el diseño y desarrollo de apps webs y mòviles aplicando buenas practicas de diseño. 
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software**
-- 🧠 ** Desarrollador Full-Stack**
+- 🧠 **Desarrollador Full-Stack**
 - 🔄 Manejo de **bases de datos relacionales y no relacionales**
 - 🐳 Manejo de contenedores con **Docker** y despliegue de aplicaciones en **Render** y **AWS**
 - 🧩 Conocimientos en **arquitectura de software** y **patrones de diseño** aplicados al desarrollo de aplicaciones
