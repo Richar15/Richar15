@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Richard Assis
 
-🎯 Soy un **Desarrollador de Software** enfocado en el diseño y desarrollo de apps webs y mòviles aplicando buenas pràcticas de diseño. 
+🎯 Soy un **Desarrollador de Software** enfocado en el diseño y desarrollo de apps aplicando buenas pràcticas de diseño. 
 
 ---
 
